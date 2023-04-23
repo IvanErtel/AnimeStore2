@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "nombre": "Nezuko",
+      "categoria": "juguetes",
+      "precio": 10.99,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_913867-MLA51528505097_092022-O.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Naruto",
+        "categoria": "juguetes",
+        "precio": 15.99,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_646568-MLA44426712609_122020-O.jpg"
+      }
+  ]
