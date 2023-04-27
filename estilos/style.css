@@ -103,9 +103,13 @@ header p {
 }
 
 /* Productos */
-#productos {
+#productos{
     padding: 50px;
     background-color: #f8f8f8;
+}
+.card-Json{
+  padding: 50px;
+  background-color: #f8f8f8;
 }
 
 #productos h2 {
@@ -120,9 +124,7 @@ header p {
   .card {
     max-width: 350px; /* Cambia el valor a tu preferencia para ajustar el ancho máximo de la tarjeta */
 }
-.cardCol{
-  margin: 1rem;
-  }
+
 /* Quienes Somos */
 #quienes-somos {
     padding: 50px;
